@@ -1,9 +1,9 @@
 # 📊 Telecom Customer Churn & Revenue Loss Intelligence System
 
-![Dashboard Preview](dashboard_preview.png)
+![Dashboard Preview](dashboard%20preview.png)
 
 ## 📌 Business Overview
-This project delivers an executive-ready Power BI dashboard designed to analyze customer churn risk, quantify monthly recurring revenue exposure, and provide actionable retention strategies for a enterprise telecom provider.
+This project delivers an executive-ready Power BI dashboard designed to analyze customer churn risk, quantify monthly recurring revenue exposure, and provide actionable retention strategies for an enterprise telecom provider.
 
 By combining custom risk segmentation with high-contrast metric visuals, the system enables business executives and retention teams to immediately identify at-risk customer accounts and take targeted action to safeguard revenue.
 
@@ -31,5 +31,5 @@ By combining custom risk segmentation with high-contrast metric visuals, the sys
 ```text
 ├── Telecom Customer Churn.pbix                                    # Interactive Power BI Desktop Project
 ├── Telecom Customer Churn and Revenue Loss Intelligent system- POWER BI.pdf  # High-resolution PDF Report
-├── dashboard_preview.png                                          # Dashboard Canvas Screenshot
+├── dashboard preview.png                                          # Dashboard Canvas Screenshot
 └── README.md                                                      # Project Documentation
